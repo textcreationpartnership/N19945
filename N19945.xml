@@ -118,8 +118,9 @@
    <text xml:lang="unk">
       <front>
          <div type="title_page">
-            <pb facs="tcp:026091_0000_0FCFACACCAC990F0"/>
-            <pb facs="tcp:026091_0001_0FCFACAB4BCD1A58" rendition="simple:additions"/>
+            <pb facs="unknown:026091_0000_0FCFACACCAC990F0"/>
+            <pb facs="unknown:026091_0001_0FCFACAB4BCD1A58"
+                rendition="simple:additions"/>
             <p>THE RIGHTS OF ASSES, A POEM.</p>
             <q>
                <l>OPPRESSION CEASE IN EVERY NATION—</l>
@@ -130,7 +131,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:026091_0002_0FCF8C54012165F0"/>
+            <pb facs="unknown:026091_0002_0FCF8C54012165F0"/>
             <head>RIGHTS OF ASSES.</head>
             <lg>
                <l>AS lately at a Muirland fair,</l>
@@ -154,7 +155,7 @@
                <l>And firſt, he mov'd to chuſe a Preſes,</l>
                <l>(For there's ſome order among Aſſes:)</l>
                <l>
-                  <pb n="4" facs="tcp:026091_0003_0FCFACA94C84F8A8"/>
+                  <pb n="4" facs="unknown:026091_0003_0FCFACA94C84F8A8"/>
 This done, with more than Aſſes fire,</l>
                <l>He roſe, and audience did deſire.—</l>
             </lg>
@@ -188,7 +189,7 @@ This done, with more than Aſſes fire,</l>
                <l>MY friends, we have been long abus'd,</l>
                <l>And for the meaneſt drudg'ry us'd,</l>
                <l>
-                  <pb n="5" facs="tcp:026091_0004_0FCFACA70B4089F8"/>
+                  <pb n="5" facs="unknown:026091_0004_0FCFACA70B4089F8"/>
 While horſes have been kept for pleaſure,</l>
                <l>And take their airings at their leiſure.</l>
                <l>Of old, my friends, it was not thus,</l>
@@ -222,7 +223,7 @@ While horſes have been kept for pleaſure,</l>
                <l>By him we have our hay and ſtraw,</l>
                <l>Tho' whiles his litter we muſt gnaw,</l>
                <l>
-                  <pb n="6" facs="tcp:026091_0005_0FCFACA5AC3C3BE8"/>
+                  <pb n="6" facs="unknown:026091_0005_0FCFACA5AC3C3BE8"/>
 And, tho' our ſkins be not ſo ſleek,</l>
                <l>Yet ſome get corn once in a week.</l>
                <l>'Tis true, he boaſts of birth and blood,</l>
@@ -257,7 +258,7 @@ And, tho' our ſkins be not ſo ſleek,</l>
                <l>Unleſs their rulers firſt are feed.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:026091_0006_0FCFACA40B955118"/>
+               <pb n="7" facs="unknown:026091_0006_0FCFACA40B955118"/>
                <l>I'VE often heard the farmers ſay.</l>
                <l>(Beſides what they to landlords pay)</l>
                <l>From ev'ry boll there goes a firlot,</l>
@@ -291,7 +292,7 @@ And, tho' our ſkins be not ſo ſleek,</l>
                <l>Are paid to bribe a venal crew.</l>
             </lg>
             <lg>
-               <pb n="8" facs="tcp:026091_0007_0FCFACA2D2F6C838"/>
+               <pb n="8" facs="unknown:026091_0007_0FCFACA2D2F6C838"/>
                <l>BESIDES theſe ills, the folks in towns,</l>
                <l>Are whiles rode down by rude dragoons.</l>
                <l>See towns laid under martial law,</l>
@@ -326,7 +327,7 @@ And, tho' our ſkins be not ſo ſleek,</l>
                <l>Beſides, their heels are iron ſhod;</l>
                <l>Then we'll be driv'n from town to town.</l>
                <l>
-                  <pb n="9" facs="tcp:026091_0008_0FCFACA151E58718"/>
+                  <pb n="9" facs="unknown:026091_0008_0FCFACA151E58718"/>
 And where they find us, ride us down;</l>
                <l>They'll eat the fodder of each Aſs,</l>
                <l>Nor leave one particle of graſs.</l>
@@ -360,7 +361,7 @@ And where they find us, ride us down;</l>
                <l>(They, each day, have their double ration,</l>
                <l>While we do pine in mere <hi>ſtarvation</hi>)</l>
                <l>
-                  <pb n="10" facs="tcp:026091_0009_0FCF8C516BC6AE28"/>
+                  <pb n="10" facs="unknown:026091_0009_0FCF8C516BC6AE28"/>
 We ought our rights for to regain,</l>
                <l>And with our lives theſe rights maintain.</l>
             </lg>
@@ -394,7 +395,7 @@ We ought our rights for to regain,</l>
                <l>Now what they have can call their own,</l>
                <l>Nor dread they thunders from a throne.</l>
                <l>
-                  <pb n="11" facs="tcp:026091_0010_0FCFAC9E467D5C98"/>
+                  <pb n="11" facs="unknown:026091_0010_0FCFAC9E467D5C98"/>
 None now upon their rights dare trample;</l>
                <l>Why ſhould not we take their example?</l>
             </lg>
